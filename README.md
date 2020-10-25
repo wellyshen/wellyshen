@@ -1,6 +1,7 @@
-### Hi there 👋
+[![Welly's github stats](https://github-readme-stats.vercel.app/api?username=wellyshen&show_icons=true&theme=react)](https://www.linkedin.com/in/welly-shen-8b43287a)
 
-<!--
+<!-- ### Hi there 👋
+
 **wellyshen/wellyshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
