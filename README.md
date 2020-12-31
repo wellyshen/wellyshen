@@ -1,6 +1,6 @@
 [![Welly's github stats](https://github-readme-stats.vercel.app/api?username=wellyshen&show_icons=true&theme=react)](https://www.linkedin.com/in/welly-shen-8b43287a)
 
-![Welly's github stats](https://github-readme-stats.vercel.app/api?username=wellyshen&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellyshen&theme=react)
 
 <!-- ### Hi there 👋
 
