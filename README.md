@@ -1,6 +1,6 @@
 **Boost your React app(s) developing by some of my pacakges:**
 
-- ⚛️ [React Cool Form ![stars](https://img.shields.io/github/stars/wellyshen/react-cool-form?style=flat)](https://github.com/wellyshen/react-cool-form)
+- ⚛️ [![stars](https://img.shields.io/github/stars/wellyshen/react-cool-form?style=flat) React Cool Form](https://github.com/wellyshen/react-cool-form)
 - ⚛️ [Use Places Autocomplete ![stars](https://img.shields.io/github/stars/wellyshen/use-places-autocomplete?style=flat)](https://github.com/wellyshen/use-places-autocomplete)
 - ⚛️ [Use Web Animation ![stars](https://img.shields.io/github/stars/wellyshen/use-web-animations?style=flat)](https://github.com/wellyshen/use-web-animations)
 - ⚛️ [React Cool Starter ![stars](https://img.shields.io/github/stars/wellyshen/react-cool-starter?style=flat)](https://github.com/wellyshen/react-cool-starter)
