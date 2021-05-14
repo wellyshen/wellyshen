@@ -1,6 +1,6 @@
 **Boost your React app(s) developing by some of my pacakges:**
 
-- ⚛️ React Cool Form [stars](https://img.shields.io/packagist/stars/wellyshen/react-cool-form?style=social)
+- ⚛️ [![React Cool Form](https://img.shields.io/packagist/stars/wellyshen/react-cool-form?style=social)](https://www.npmjs.com/package/react-cool-form)
 
 <a href="https://www.linkedin.com/in/welly-shen-8b43287a">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=wellyshen&show_icons=true&theme=react" alt="Welly's github stats" />
