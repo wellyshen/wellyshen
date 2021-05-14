@@ -1,4 +1,4 @@
-#### Boost your React app(s) developing with my packages:
+### Boost your React app(s) developing with my packages:
 
 - ⚛️ [Use Places Autocomplete ![stars](https://img.shields.io/github/stars/wellyshen/use-places-autocomplete?style=flat-square)](https://github.com/wellyshen/use-places-autocomplete)
 - ⚛️ [Use Web Animation ![stars](https://img.shields.io/github/stars/wellyshen/use-web-animations?style=flat-square)](https://github.com/wellyshen/use-web-animations)
