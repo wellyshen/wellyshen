@@ -1,4 +1,4 @@
-### I'm dedicated to contribute open-source software to help people create better things on the web 🤘🏻
+### 🚀 Boost your React app(s) developing with my libraries:
 
 - ⚛️ [Use Places Autocomplete ![stars](https://img.shields.io/github/stars/wellyshen/use-places-autocomplete?style=flat-square)](https://github.com/wellyshen/use-places-autocomplete)
 - ⚛️ [Use Web Animation ![stars](https://img.shields.io/github/stars/wellyshen/use-web-animations?style=flat-square)](https://github.com/wellyshen/use-web-animations)
