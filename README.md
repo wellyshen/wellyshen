@@ -1,6 +1,6 @@
 ### Boost your React app(s) developing with my libraries:
 
-- 📍 [Use Places Autocomplete ![stars](https://img.shields.io/github/stars/wellyshen/use-places-autocomplete?style=flat-square) ![downloads](https://img.shields.io/npm/dt/use-places-autocomplete?style=flat-square)](https://github.com/wellyshen/use-places-autocomplete)
+- 📍 [`use-places-autocomplete`](https://github.com/wellyshen/use-places-autocomplete) ![stars](https://img.shields.io/github/stars/wellyshen/use-places-autocomplete?style=flat-square) ![downloads](https://img.shields.io/npm/dt/use-places-autocomplete?style=flat-square)
 - 🍿 [Use Web Animation ![stars](https://img.shields.io/github/stars/wellyshen/use-web-animations?style=flat-square) ![downloads](https://img.shields.io/npm/dt/@wellyshen/use-web-animations?style=flat-square)](https://github.com/wellyshen/use-web-animations)
 - ♻️ [React Cool Virtual ![stars](https://img.shields.io/github/stars/wellyshen/react-cool-virtual?style=flat-square) ![downloads](https://img.shields.io/npm/dt/react-cool-virtual?style=flat-square)](https://github.com/wellyshen/react-cool-virtual) 
 - 📋 [React Cool Form ![stars](https://img.shields.io/github/stars/wellyshen/react-cool-form?style=flat-square) ![downloads](https://img.shields.io/npm/dt/react-cool-form?style=flat-square)](https://github.com/wellyshen/react-cool-form) 
