@@ -9,8 +9,8 @@
 - 🍒 [React Cool Portal](https://github.com/wellyshen/react-cool-portal) [![stars](https://img.shields.io/github/stars/wellyshen/react-cool-portal?style=flat-square)](https://github.com/wellyshen/react-cool-portal/stargazers) [![downloads](https://img.shields.io/npm/dt/react-cool-portal?style=flat-square)](https://www.npmjs.com/package/react-cool-portal)
 - 🖱 [React Cool Onclickoutside](https://github.com/wellyshen/react-cool-onclickoutside) [![stars](https://img.shields.io/github/stars/wellyshen/react-cool-onclickoutside?style=flat-square)](https://github.com/wellyshen/react-cool-onclickoutside/stargazers) [![downloads](https://img.shields.io/npm/dt/react-cool-onclickoutside?style=flat-square)](https://www.npmjs.com/package/react-cool-onclickoutside)
 - 🏞 [React Cool Img](https://github.com/wellyshen/react-cool-img) [![stars](https://img.shields.io/github/stars/wellyshen/react-cool-img?style=flat-square)](https://github.com/wellyshen/react-cool-img/stargazers) [![downloads](https://img.shields.io/npm/dt/react-cool-img?style=flat-square)](https://www.npmjs.com/package/react-cool-img)
-- 🐣 [React Cool Starter](https://github.com/wellyshen/react-cool-starter) ![stars](https://img.shields.io/github/stars/wellyshen/react-cool-starter?style=flat-square)
-- ⚙️ [ESLint Config Welly](https://github.com/wellyshen/eslint-config-welly) ![stars](https://img.shields.io/github/stars/wellyshen/eslint-config-welly?style=flat-square) ![downloads](https://img.shields.io/npm/dt/eslint-config-welly?style=flat-square)
+- 🐣 [React Cool Starter](https://github.com/wellyshen/react-cool-starter) [![stars](https://img.shields.io/github/stars/wellyshen/react-cool-starter?style=flat-square)](https://github.com/wellyshen/react-cool-starter/stargazers)
+- ⚙️ [ESLint Config Welly](https://github.com/wellyshen/eslint-config-welly) [![stars](https://img.shields.io/github/stars/wellyshen/eslint-config-welly?style=flat-square)](https://github.com/wellyshen/eslint-config-welly/stargazers) [![downloads](https://img.shields.io/npm/dt/eslint-config-welly?style=flat-square)](https://www.npmjs.com/package/eslint-config-welly)
 
 
 ---
