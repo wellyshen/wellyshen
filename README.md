@@ -1,5 +1,5 @@
 
-👋🏻 I'm Welly from Taiwan. I love to work with ppl from all over the world. Wanna hire me? Let's [talk](https://www.linkedin.com/in/welly-shen-8b43287a).
+👋🏻 I'm Welly from Taiwan. I love to work with people from all over the world. Wanna hire me? Let's [talk](https://www.linkedin.com/in/welly-shen-8b43287a).
 
 ### Boost your React apps developing with my libraries:
 
