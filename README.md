@@ -1,3 +1,6 @@
+
+`I'm Welly from Taiwan 🇹🇼. I love to work with ppl from all over the world. Wanna hire me? Let's [talk](https://www.linkedin.com/in/welly-shen-8b43287a).`
+
 ### Boost your React apps developing with my libraries:
 
 - 📍 [Use Places Autocomplete](https://github.com/wellyshen/use-places-autocomplete) [![stars](https://img.shields.io/github/stars/wellyshen/use-places-autocomplete?style=flat-square)](https://github.com/wellyshen/use-places-autocomplete/stargazers) [![downloads](https://img.shields.io/npm/dt/use-places-autocomplete?style=flat-square)](https://www.npmjs.com/package/use-places-autocomplete)
