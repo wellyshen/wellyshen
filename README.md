@@ -16,8 +16,6 @@
 
 ---
 
-### 🤩 I love to work with people from all over the world. Wanna hire me? Let's [talk](https://www.linkedin.com/in/welly-shen-8b43287a)!
-
 <a href="https://www.linkedin.com/in/welly-shen-8b43287a">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=wellyshen&show_icons=true&theme=react" alt="Welly's github stats" />
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellyshen&layout=compact&theme=react" alt="Welly's top languages" />
